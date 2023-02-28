@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./preview.png" width="75%">
+<img src="./preview.png">
 
 
 
